@@ -1,27 +1,22 @@
 export const offers = [
     {
-        service: "নমস্কার",
+        service: "Passionate",
         price: 1,
     },
     {
-        service: "সকলকে",
+        service: "Hardworking",
         price: 2,
     },
     {
-        service: "জানাই",
+        service: "Creative",
         price: 3,
     },
     {
-        service: "আমার",
+        service: "Dedicated",
         price: 4,
     },
     {
-        service: "আন্তরিক",
-        price: 4,
-    },
-    {
-        service: "শুভেচ্ছা",
+        service: "Reliable",
         price: 5,
     }
-   
-]
+];
