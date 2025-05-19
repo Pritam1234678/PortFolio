@@ -8,7 +8,7 @@ export const items : Resume[] = [
         institution: "KIIT University",
         duration: "2023-2027",
         primary_qualification: "Batchelor of Technology",
-        primary_concentration: "Computer Science Enhineering",
+        primary_concentration: "Computer Science Engineering",
         secondary_qualification: null,
         secondary_concentration: null,
         role: null,
