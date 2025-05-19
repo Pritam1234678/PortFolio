@@ -122,7 +122,7 @@ function Listings({ service, price }: { service: string; price: number }) {
     <div className="py-2 border-b-[1px]  border-b-lightText20 dark:border-b-darkText20 flex justify-between items-center">
       <p className="text-[17px] 2xl:text-[28px]">{service}</p>
       <p className="text-[17px] 2xl:text-[28px] ">
-        No. {Intl.NumberFormat("en-US").format(price)}
+        {Intl.NumberFormat("en-US").format(price)}
       </p>
     </div>
   );
