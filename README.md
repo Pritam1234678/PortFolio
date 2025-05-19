@@ -24,7 +24,7 @@ This portfolio was built using the following technologies:
 ## 💻 Live Preview
 
 Check out the live version of this portfolio here:  
-👉 [Live Demo](https://pritam1234678.github.io/PortFolio)
+👉 [Live Demo](https://pritammandalportfolio.netlify.app/)
 
 ### 📷 Screenshots
 
