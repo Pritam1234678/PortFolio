@@ -303,7 +303,7 @@ const projects = [
   {
     title: "Lofi Train",
     alt: "a couple laughing and enjoying each other's company",
-    year: "2023",
+    year: "2025",
     roles: ["frontend", "web design"],
     technologies: ["React.js", "SCSS", "Javascript", "Figma"],
     github: "Pritam1234678/lofi-train",
