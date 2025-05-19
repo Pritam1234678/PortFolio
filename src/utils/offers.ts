@@ -1,22 +1,22 @@
 export const offers = [
     {
         service: "Passionate",
-        price: 1,
+        price: "🔥", // Fire for passion
     },
     {
         service: "Hardworking",
-        price: 2,
+        price: "💪", // Strong arm for hard work
     },
     {
         service: "Creative",
-        price: 3,
+        price: "🎨", // Paint palette for creativity
     },
     {
         service: "Dedicated",
-        price: 4,
+        price: "🎯", // Target for focus/dedication
     },
     {
         service: "Reliable",
-        price: 5,
+        price: "🛡️", // Shield for trust and reliability
     }
 ];

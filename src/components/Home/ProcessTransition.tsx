@@ -117,12 +117,12 @@ function ProcessTransition() {
   );
 }
 
-function Listings({ service, price }: { service: string; price: number }) {
+function Listings({ service, price }: { service: string; price: string | number }) {
   return (
     <div className="py-2 border-b-[1px]  border-b-lightText20 dark:border-b-darkText20 flex justify-between items-center">
       <p className="text-[17px] 2xl:text-[28px]">{service}</p>
       <p className="text-[17px] 2xl:text-[28px] ">
-        {Intl.NumberFormat("en-US").format(price)}
+        {price}
       </p>
     </div>
   );
